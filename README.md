@@ -1,8 +1,8 @@
 # MHE_Partition_Problem
 
-#METAHEURYSTYKA
+# METAHEURYSTYKA
 
-#PARTITION PROBLEM
+# PARTITION PROBLEM
 
 ## Problematykę partition problem można przedstawić za pomocą pytania: Czy dla zbioru X dodatnich liczb całkowitych istnieją dwa takie podzbiory Y1 i Y2, dla których suma liczb podzbioru Y1 równa się sumie liczb podzbioru Y2?
 
@@ -10,4 +10,4 @@
 
 ## Dane wyjściowe: wartość liczbowa reprezentująca różnicę pomiędzy sumą liczb podzbioru Y1 oraz Y2. Najlepszy oczekiwany wynik: 0, jeśli większy od 0, to wartość jest odległością od oczekiwanego celu, czyli 0.
 
-###Źródło: https://en.wikipedia.org/wiki/Partition_problem
+### Źródło: https://en.wikipedia.org/wiki/Partition_problem
